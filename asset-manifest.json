@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/tryapp/static/css/main.5bcbb24d.chunk.css",
+    "main.js": "/tryapp/static/js/main.d20e8b27.chunk.js",
+    "main.js.map": "/tryapp/static/js/main.d20e8b27.chunk.js.map",
+    "runtime-main.js": "/tryapp/static/js/runtime-main.404b6e10.js",
+    "runtime-main.js.map": "/tryapp/static/js/runtime-main.404b6e10.js.map",
+    "static/js/2.a9eed60a.chunk.js": "/tryapp/static/js/2.a9eed60a.chunk.js",
+    "static/js/2.a9eed60a.chunk.js.map": "/tryapp/static/js/2.a9eed60a.chunk.js.map",
+    "index.html": "/tryapp/index.html",
+    "precache-manifest.e2f621483bb1bd0695ce0df612ea4823.js": "/tryapp/precache-manifest.e2f621483bb1bd0695ce0df612ea4823.js",
+    "service-worker.js": "/tryapp/service-worker.js",
+    "static/css/main.5bcbb24d.chunk.css.map": "/tryapp/static/css/main.5bcbb24d.chunk.css.map",
+    "static/js/2.a9eed60a.chunk.js.LICENSE.txt": "/tryapp/static/js/2.a9eed60a.chunk.js.LICENSE.txt",
+    "static/media/balloon.jpg": "/tryapp/static/media/balloon.92f612a4.jpg",
+    "static/media/head_shot.jpg": "/tryapp/static/media/head_shot.8d86d095.jpg",
+    "static/media/logo_mrb.png": "/tryapp/static/media/logo_mrb.32fa8e1d.png",
+    "static/media/octocat.jpg": "/tryapp/static/media/octocat.0bae7731.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.404b6e10.js",
+    "static/js/2.a9eed60a.chunk.js",
+    "static/css/main.5bcbb24d.chunk.css",
+    "static/js/main.d20e8b27.chunk.js"
+  ]
+}
